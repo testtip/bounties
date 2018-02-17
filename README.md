@@ -1,4 +1,3 @@
-
 # Available Bounties
 
 Bounty | Issue | Repository | Fixing
